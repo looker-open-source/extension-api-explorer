@@ -1,0 +1,22 @@
+{
+  "label": "API Explorer",
+  "category_label": "Applications",
+  "branding": {
+    "image_uri": "https://marketplace-api.looker.com/app-icons/icon_api_explorer.svg",
+    "tagline": "Interactively explore API calls to help you build with Looker",
+    "brand_color": "#24B25F",
+    "badge": "Beta"
+  },
+  "constants": {
+    "CONNECTION_NAME": {
+      "label": "Connection Name",
+      "value_constraint": "connection"
+    }
+  },
+  "models": [
+    {
+      "name": "extension-api-explorer",
+      "connection_constant": "CONNECTION_NAME"
+    }
+  ]
+}
