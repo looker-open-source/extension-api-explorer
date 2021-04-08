@@ -7,12 +7,12 @@ application: api-explorer {
   entitlements: {
     local_storage: no
     navigation: no
-    new_window: no
+    new_window: yes
     raw_api_request: yes
     use_form_submit: yes
     use_embeds: yes
     core_api_methods: ["versions", "api_spec"]
-    external_api_urls: []
+    external_api_urls: ["https://raw.githubusercontent.com"]
     oauth2_urls: []
   }
 }
