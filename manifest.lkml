@@ -5,7 +5,7 @@ application: api-explorer {
   file: "bundle.js"
 
   entitlements: {
-    local_storage: no
+    local_storage: yes
     navigation: no
     new_window: yes
     raw_api_request: yes
