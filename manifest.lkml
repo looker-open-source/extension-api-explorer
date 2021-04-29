@@ -12,7 +12,7 @@ application: api-explorer {
     use_form_submit: yes
     use_embeds: yes
     core_api_methods: ["versions", "api_spec"]
-    external_api_urls : ["https://raw.githubusercontent.com","http://localhost:30000"]
+    external_api_urls: ["https://raw.githubusercontent.com","http://localhost:30000"]
     oauth2_urls: []
   }
 }
