@@ -8,6 +8,7 @@ application: api-explorer {
     local_storage: yes
     navigation: no
     new_window: yes
+    new_window_external_urls: ["https://looker.com/*"]
     raw_api_request: yes
     use_form_submit: yes
     use_embeds: yes
