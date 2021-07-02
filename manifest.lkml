@@ -19,6 +19,6 @@ application: api-explorer {
 }
 
 constant: CONNECTION_NAME {
-  value: "choose-connection"
-  export: override_required
+  value: ""
+  export: override_optional
 }
