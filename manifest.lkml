@@ -15,6 +15,7 @@ application: api-explorer {
     core_api_methods: ["versions", "api_spec"]
     external_api_urls: ["https://raw.githubusercontent.com","http://localhost:30000"]
     oauth2_urls: []
+    sri_hash: "gwTs7X2eHOIIaYhk+3d6DRKxI6tN8+nwY0NoiWvIj9H5AwTKyJPCcm3NC+rIAXYM"
   }
 }
 
