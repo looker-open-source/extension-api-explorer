@@ -3,7 +3,7 @@ project_name: "api-explorer"
 application: api-explorer {
   label: "API Explorer"
   file: "bundle.js"
-  sri_hash: "sH1e19WGQ1eaLbjplhpNlqcqRSIxgdOEN9RBAFwb8+VqCm8SWKTlYl0EUYWxK6Y3%"
+  sri_hash: "sH1e19WGQ1eaLbjplhpNlqcqRSIxgdOEN9RBAFwb8+VqCm8SWKTlYl0EUYWxK6Y3"
 
   entitlements: {
     local_storage: yes
