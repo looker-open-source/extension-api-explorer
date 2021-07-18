@@ -1,7 +1,7 @@
 project_name: "api-explorer"
 
 application: api-explorer {
-  label: "API Explorer"
+  label: "API Explorer Test"
   file: "bundle.js"
 
   entitlements: {
