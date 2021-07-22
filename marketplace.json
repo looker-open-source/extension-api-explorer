@@ -4,8 +4,7 @@
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/app-icons/icon_api_explorer.svg",
     "tagline": "Interactively explore API calls to help you build with Looker",
-    "brand_color": "#24B25F",
-    "badge": "Beta"
+    "brand_color": "#24B25F"
   },
   "constants": {
     "CONNECTION_NAME": {
