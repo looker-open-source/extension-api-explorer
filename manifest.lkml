@@ -4,6 +4,7 @@ application: api-explorer {
   label: "API Explorer"
   file: "bundle.js"
   author: "looker"
+  sri_hash: "rdl28y0Vzy4rFGhDQol8MCttyFj06obuVUK4FizD9lxTszmYWP8XB8VqL7E5UzGX"
 
   entitlements: {
     local_storage: yes
