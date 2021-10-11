@@ -3,6 +3,7 @@ project_name: "api-explorer"
 application: api-explorer {
   label: "API Explorer"
   file: "bundle.js"
+  author: "looker"
 
   entitlements: {
     local_storage: yes
